@@ -43,7 +43,7 @@ body {
     color: #87cefa;
 }
 .name:hover{
-    background-color: rgb(245, 222, 245);
+    background-color: gainsboro;
 }
 .name:focus{
     border: 1px solid #87cefa;
