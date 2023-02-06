@@ -6,6 +6,13 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
+.log_out-btn{
+  background-color: #87cefa;
+  border:none;
+  padding: 5px;
+}
+
 .sidebar{
   position: fixed;
   height: 100%;
