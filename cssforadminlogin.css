@@ -39,6 +39,7 @@ body {
 }
 .in_name i{
     position: absolute;
+    padding: 8px;
     font-size: 18px;
     color: #87cefa;
 }
